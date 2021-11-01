@@ -11,6 +11,7 @@ The Logo Factory has a new Sass logo and they'd like it to be animated.
 ## Launch
 
 To view the animation, visit here: https://marisabrantley.github.io/animated-company-logo/
+(Best viewed on desktop.)
 
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
